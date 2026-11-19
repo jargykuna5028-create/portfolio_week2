@@ -14,3 +14,24 @@ body{
 .cool{
     color: orange;
 }
+
+section{
+    width: 80%;
+    background-color: rgb(31, 131, 34);
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
+    Flex-wrap: wrap;
+}
+
+.card{
+    width: 350px;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    margin: 10px 0;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
